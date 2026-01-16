@@ -1,4 +1,4 @@
-# Pandas-and-Numpy
+# Pandas and Numpy
 
 A structured repository for practicing and exploring **Pandas** and **NumPy**, focusing on core concepts, data manipulation techniques, and numerical operations commonly used in **data analysis, machine learning, and scientific computing**.
 
@@ -29,5 +29,3 @@ This repository is designed to build strong fundamentals through **hands-on exam
 - Preparing data for machine learning pipelines  
 - Interview preparation and revision  
 - Reference for common Pandas and NumPy patterns  
-
-This repository will continue to evolve as more examples, edge cases, and practical patterns are added.
